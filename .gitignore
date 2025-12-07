@@ -1,0 +1,13 @@
+# ZIPs / archives
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Environment
+*.env
