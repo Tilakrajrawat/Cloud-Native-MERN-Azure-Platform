@@ -1,4 +1,4 @@
-# 🚨 IncidentIQ — Production-Ready Incident Management Platform
+# 🚨 IncidentIQ 
 
 IncidentIQ is a full-stack MERN incident management system with role-based workflows, real-time updates, analytics, SLA tracking, and Azure Functions automation.
 
